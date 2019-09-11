@@ -1,0 +1,5 @@
+package com.jb.service.facade;
+
+public class CompanyFacade {
+
+}
